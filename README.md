@@ -1,19 +1,142 @@
-# Hi 👋, I'm Gargi Kalla
 
-### Currently a CS student @ GMU, Aspiring Software Engineer
+<div align="left"> 
+  
+  # Hi there, I'm Gargi Kalla 👋
+  
+  - 💚💛 Computer Science Student @ George Mason University
+  - 💻📝 Aspiring Full-Stack Software Engineer | Backend Developer | Java Developer 
+  - ☕📚 Currently obsessed with Java, Software Architecture & Building Useful Things
+  
+  > *"I love taking ideas from a random thought to a working product."*
 
-- 🌱 I'm currently learning **Spring Boot**
+</div>
 
-- 👯 I'm looking to collaborate on **Full Stack Web Development**
 
-- 📫 How to reach me **kallagargi6@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/gargikalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="gargikalla" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gargikalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gargikalla" height="30" width="40" /></a>
+
+  # 👩🏻‍💻 My Process
+
+  I like owning the entire development lifecycle:
+  
+  - 💡 Ideation
+  - 📝 Requirements Gathering
+  - 🎨 UI/UX Design
+  - 🏗️ Software Architecture
+  - ⚙️ Full-Stack Development
+  - 🧪 Testing
+
+  while incorporating technical documentation and AI-powered tools throughout the process to speed up the process.  
+  Right now I'm focused on building production-quality software while strengthening my understanding of scalable backend systems and software architecture.
+
+
+---
+
+
+  # 🌱 Currently Learning
+  
+  - 🧩 Spring Boot Microservices
+  - ⚙️ High-Level & Low-Level System Design
+  - 📁 PostgreSQL Database
+  - ☁️ AWS Cloud
+
+
+---
+
+
+  # 👩🏻‍💻 Tech Stack
+
+  > **Master of one, jack of all the other trades 😝😂**
+
+  **My philosophy:**
+  I believe mastering the core Computer Science (CS) and Software Engineering (SWE) foundations is far more valuable than trying to collect every new tech stack like Pokeman cards.
+  
+  Every application has different functional and non-functional requirements, so there isn't a single "best" tech stack. The tools should fit the problem we are trying to solve not the other way around. What doesn't change are the fundamentals: object-oriented programming, software design, databases, debugging, problem-solving, etc. I've learned that these skills carry over no matter what language or framework we use.
+  
+  So, I am focusing on mastering the technologies that I genuinely enjoy working -  **the Java Ecosystem!** 
+  
+  <p>
+  <img src="https://img.shields.io/badge/Java-1E3A8A?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-1E3A8A?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20MVC-1E3A8A?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-1E3A8A?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-1E3A8A?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-1E3A8A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/SQL-1E3A8A?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-1E3A8A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-1E3A8A?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-1E3A8A?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  </p>
+  
+  For everything else, whether it's MERN, Django, or the next trendy framework, I lean on AI, open source resources, documentation, and my own reasoning to adapt quickly :)
+
+
+---
+
+
+# 👩🏻‍💻 Featured Projects
+
+### 🚀 F1-Filter: Job Eligibility Scan Extension
+- **Problem:** As an international student, I got tired of manually checking whether I was eligible for jobs before reading the entire description and entering/ selecting the preferences on job boards.
+- **Solution:** I'm building a Chrome extension that scans job descriptions for sponsorship-related keywords and tells me whether I'm eligible.
+> **Tech:** Google Chrome Extension API • Manifest V3 • JavaScript • HTML • CSS
+
+
+### 📚 Backlogr: Project Management Tool
+- **Problem:** After one too many college group projects where nobody knew who was doing what (or if they were doing anything at all), I got tired of chasing updates through Discord, spreadsheets, emails, and long google docs. Keeping teammates accountable—and giving professors visibility into everyone's contributions—shouldn't be this difficult.
+- **Solution:** My SWE443 team and I built **Backlogr**, a centralized platform where professors can track both team and individual progress, while students manage tasks, assign roles, and stay accountable, and finally stop asking, "Wait... who's supposed to do this?"
+> **Tech:** Java • Spring Boot • Spring MVC • JPA/Hibernate • H2 Database • JavaScript • HTML • CSS
+>
+> *Code is private due to university honor code policies.*
+
+
+---
+
+
+## 🤓💡 Fun Facts
+
+- My favorite language is Java.
+- I love turning everyday annoyances into software projects.
+- I've genuinely started to enjoy software architecture diagrams.
+- I have way too many project ideas (and not enough time or credits - free AI tools only).
+- Outside of my tech world, I love a variety of hobbies in art (painting, crafts) and fitness (yoga, strength training, pilates).
+
+
+---
+
+
+## 🤝 Let's Build Something Together
+
+I'm currently looking for opportunities where I can continue growing as a software engineer while building software that makes a real impact.
+
+I'm always happy to connect about:
+
+- 💼 Software Engineering Internships
+- 🎓 New Grad Job Opportunities
+- 🤝 Collaborating on projects or hackathons
+- 🌱 Mentorship (whether you're looking for a mentee or just want to chat!)
+- 💡 EdTech, HealthTech, productivity tools, and technology for social good
+
+If any of that resonates with you, I'd love to connect!
+
+<p align="center">
+
+<a href="https://linkedin.com/in/gargikalla">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kallagargi6@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
 
+---
+
+
+<p align="center">
+Thanks for stopping by! ⭐<br>
+Feel free to explore my repositories, share feedback, or follow along as I continue learning and building.
+</p>
