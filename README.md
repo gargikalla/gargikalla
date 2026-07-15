@@ -78,15 +78,15 @@
 # 👩🏻‍💻 Featured Projects
 
 ### 🚀 F1-Filter: Job Eligibility Scan Extension
-- **Problem:** As an international student, I got tired of manually checking whether I was eligible for jobs before reading the entire description and entering/ selecting the preferences on job boards.
+- **Problem:** As an international student, I got tired of manually checking whether I was eligible for jobs before reading the entire description and entering/ selecting the preferences on job boards 🙏
 - **Solution:** I'm building a Chrome extension that scans job descriptions for sponsorship-related keywords and tells me whether I'm eligible.
 > **Tech:** Google Chrome Extension API • Manifest V3 • JavaScript • HTML • CSS
 
 
 ### 📚 Backlogr: Project Management Tool
-- **Problem:** After one too many college group projects where nobody knew who was doing what (or if they were doing anything at all), I got tired of chasing updates through Discord, spreadsheets, emails, and long google docs. Keeping teammates accountable—and giving professors visibility into everyone's contributions—shouldn't be this difficult.
+- **Problem:** After one too many college group projects where nobody knew who was doing what (or if they were doing anything at all), I got tired of chasing updates through Discord, spreadsheets, emails, and long google docs. Keeping teammates accountable and giving professors visibility into everyone's contributions shouldn't be this difficult 😭
 - **Solution:** My SWE443 team and I built **Backlogr**, a centralized platform where professors can track both team and individual progress, while students manage tasks, assign roles, and stay accountable, and finally stop asking, "Wait... who's supposed to do this?"
-> **Tech:** Java • Spring Boot • Spring MVC • JPA/Hibernate • H2 Database • JavaScript • HTML • CSS
+> **Tech:** Java • Spring Boot • Spring MVC • JPA/Hibernate • MySQL • H2 Database • JavaScript • HTML • CSS
 >
 > *Code is private due to university honor code policies.*
 
