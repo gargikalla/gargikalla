@@ -100,6 +100,7 @@
 - I love turning everyday annoyances into software projects.
 - I've genuinely started to enjoy software architecture diagrams.
 - I have way too many project ideas (and not enough time or credits - free AI tools only).
+- I love to lead! I've been a part leadership teams at GMU, including Girls Who Code and Indian Student Association.
 - Outside of my tech world, I love a variety of hobbies in art (painting, crafts) and fitness (yoga, strength training, pilates).
 
 
