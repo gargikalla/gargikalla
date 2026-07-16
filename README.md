@@ -14,8 +14,7 @@
 
 ---
 
-
-  # 👩🏻‍💻 My Process
+  # 🎯 My Process
 
   I like owning the entire development lifecycle:
   
@@ -75,10 +74,10 @@
 ---
 
 
-# 👩🏻‍💻 Featured Projects
+# 📋 Featured Projects
 
 ### 🚀 F1-Filter: Job Eligibility Scan Extension
-- **Problem:** As an international student, I got tired of manually checking whether I was eligible for jobs before reading the entire description and entering/ selecting the preferences on job boards 🙏
+- **Problem:** As an international student, I got tired of manually checking whether I was eligible for jobs (reading the entire description and entering/ selecting the preferences on job boards 🙏)
 - **Solution:** I'm building a Chrome extension that scans job descriptions for sponsorship-related keywords and tells me whether I'm eligible.
 > **Tech:** Google Chrome Extension API • Manifest V3 • JavaScript • HTML • CSS
 
@@ -89,6 +88,25 @@
 > **Tech:** Java • Spring Boot • Spring MVC • JPA/Hibernate • MySQL • H2 Database • JavaScript • HTML • CSS
 >
 > *Code is private due to university honor code policies.*
+
+### 📁 Full Projects List:
+<details>
+  <summary>Click here to view the complete list or check from the repositories tab!</summary>
+
+  | Project | Description |
+  |:--------|:------------|
+  | 🚀 [portfolio](https://github.com/gargikalla/portfolio) | Personal website |
+  | 📱 StudySync | Personal coursework management platform to stay organized and productive |
+  | 📱 F1-Filter | Chrome extension to scan for job eligibility specifically for international students |
+  | 📱 Backlogr | Academic project management system for professors and students in groups assignments |
+  | 📱 Immigration Case System | Workflow centralizing system for immigration officers reviewing applications/ cases |
+  | 📱 Checkers Game | Classic 2-player checkers boardgame  |
+  | 📱 Movie Review Sentiment Analysis | k-Nearest Neighbor (k-NN) text classification model to predict movie reviews sentiment |
+  | 📱 Handwritten Digit Clustering | k-Means clustering model to group handwritten digits into distinct clusters based on their features |
+  | 📱 Customer-Order Management | Database focus SQL, Oracle, JDBC to MongoDB (NoSQL) migration to manage customer orders  |
+
+
+</details>
 
 
 ---
@@ -101,7 +119,7 @@
 - I've genuinely started to enjoy software architecture diagrams.
 - I have way too many project ideas (and not enough time or credits - free AI tools only).
 - I love to lead! I've been a part leadership teams at GMU, including Girls Who Code and Indian Student Association.
-- Outside of my tech world, I love a variety of hobbies in art (painting, crafts) and fitness (yoga, strength training, pilates).
+- Outside of my tech world, I love a variety of hobbies in art (painting, crafts), fitness (yoga, strength training, pilates), and photography <3
 
 
 ---
