@@ -96,14 +96,16 @@
   | Project | Description |
   |:--------|:------------|
   | 🚀 [portfolio](https://github.com/gargikalla/portfolio) | Personal website |
-  | 📱 StudySync | Personal coursework management platform to stay organized and productive |
-  | 📱 F1-Filter | Chrome extension to scan for job eligibility specifically for international students |
-  | 📱 Backlogr | Academic project management system for professors and students in groups assignments |
-  | 📱 Immigration Case System | Workflow centralizing system for immigration officers reviewing applications/ cases |
-  | 📱 Checkers Game | Classic 2-player checkers boardgame  |
-  | 📱 Movie Review Sentiment Analysis | k-Nearest Neighbor (k-NN) text classification model to predict movie reviews sentiment |
-  | 📱 Handwritten Digit Clustering | k-Means clustering model to group handwritten digits into distinct clusters based on their features |
-  | 📱 Customer-Order Management | Database focus SQL, Oracle, JDBC to MongoDB (NoSQL) migration to manage customer orders  |
+  | StudySync | Personal coursework management platform to stay organized and productive |
+  | F1-Filter | Chrome extension to scan for job eligibility specifically for international students |
+  | Backlogr | Academic project management system for professors and students in groups assignments |
+  | Immigration Case System | Workflow centralizing system for immigration officers reviewing applications/ cases |
+  | Movie Review Sentiment Analysis | k-Nearest Neighbor (k-NN) text classification model to predict movie reviews sentiment |
+  | Handwritten Digit Clustering | k-Means clustering model to group handwritten digits into distinct clusters based on their features |
+  | Customer-Order Management | Database focus SQL, Oracle, JDBC to MongoDB (NoSQL) migration to manage customer orders |
+  | Checkers Game | Classic 2-player checkers boardgame  |
+  | Tetrys Game | Tetrys game simple clone (Java + Swing)  |
+
 
 
 </details>
@@ -118,7 +120,7 @@
 - I love turning everyday annoyances into software projects.
 - I've genuinely started to enjoy software architecture diagrams.
 - I have way too many project ideas (and not enough time or credits - free AI tools only).
-- I love to lead! I've been a part leadership teams at GMU, including Girls Who Code and Indian Student Association.
+- I love to lead! I've been a part of leadership teams at GMU, including Girls Who Code and Indian Student Association.
 - Outside of my tech world, I love a variety of hobbies in art (painting, crafts), fitness (yoga, strength training, pilates), and photography <3
 
 
