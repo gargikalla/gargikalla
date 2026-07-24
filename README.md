@@ -14,6 +14,46 @@
 
 ---
 
+
+# 📋 Featured Projects
+
+### 🚀 [F1-Filter](https://github.com/gargikalla/f1-filter): Job Eligibility Scan Extension
+- **Problem:** As an international student, I got tired of manually checking whether I was eligible for jobs (reading the entire description and entering/ selecting the preferences on job boards 🙏)
+- **Solution:** I'm building a Chrome extension that scans job descriptions for sponsorship-related keywords and tells me whether I'm eligible.
+> **Tech:** Google Chrome Extension API • Manifest V3 • JavaScript • HTML • CSS
+
+
+### 📚 Backlogr: Project Management Tool
+- **Problem:** After one too many college group projects where nobody knew who was doing what (or if they were doing anything at all), I got tired of chasing updates through Discord, spreadsheets, emails, and long google docs. Keeping teammates accountable and giving professors visibility into everyone's contributions shouldn't be this difficult 😭
+- **Solution:** My SWE443 team and I built **Backlogr**, a centralized platform where professors can track both team and individual progress, while students manage tasks, assign roles, and stay accountable, and finally stop asking, "Wait... who's supposed to do this?"
+> **Tech:** Java • Spring Boot • Spring MVC • JPA/Hibernate • MySQL • H2 Database • JavaScript • HTML • CSS
+>
+> *Code is private due to university honor code policies.*
+
+### 📁 Full Projects List:
+<details>
+  <summary>Click here to view the complete list or check from the repositories tab!</summary>
+
+  | Project | Description |
+  |:--------|:------------|
+  | 🚀 [portfolio](https://github.com/gargikalla/portfolio) | Personal website |
+  | [F1-Filter](https://github.com/gargikalla/f1-filter) | Chrome extension to scan for job eligibility specifically for international students |
+  | StudySync | Personal coursework management platform to stay organized and productive |
+  | Backlogr | Academic project management system for professors and students in groups assignments |
+  | Immigration Case System | Workflow centralizing system for immigration officers reviewing applications/ cases |
+  | Movie Review Sentiment Analysis | k-Nearest Neighbor (k-NN) text classification model to predict movie reviews sentiment |
+  | Handwritten Digit Clustering | k-Means clustering model to group handwritten digits into distinct clusters based on their features |
+  | Customer-Order Management | Database focus SQL, Oracle, JDBC to MongoDB (NoSQL) migration to manage customer orders |
+  | Checkers Game | Classic 2-player checkers boardgame  |
+  | Tetrys Game | Tetrys game simple clone (Java + Swing)  |
+
+
+
+</details>
+
+
+---
+
   # 🎯 My Process
 
   I like owning the entire development lifecycle:
@@ -69,46 +109,6 @@
   </p>
   
   For everything else, whether it's MERN, Django, or the next trendy framework, I lean on AI, open source resources, documentation, and my own reasoning to adapt quickly :)
-
-
----
-
-
-# 📋 Featured Projects
-
-### 🚀 F1-Filter: Job Eligibility Scan Extension
-- **Problem:** As an international student, I got tired of manually checking whether I was eligible for jobs (reading the entire description and entering/ selecting the preferences on job boards 🙏)
-- **Solution:** I'm building a Chrome extension that scans job descriptions for sponsorship-related keywords and tells me whether I'm eligible.
-> **Tech:** Google Chrome Extension API • Manifest V3 • JavaScript • HTML • CSS
-
-
-### 📚 Backlogr: Project Management Tool
-- **Problem:** After one too many college group projects where nobody knew who was doing what (or if they were doing anything at all), I got tired of chasing updates through Discord, spreadsheets, emails, and long google docs. Keeping teammates accountable and giving professors visibility into everyone's contributions shouldn't be this difficult 😭
-- **Solution:** My SWE443 team and I built **Backlogr**, a centralized platform where professors can track both team and individual progress, while students manage tasks, assign roles, and stay accountable, and finally stop asking, "Wait... who's supposed to do this?"
-> **Tech:** Java • Spring Boot • Spring MVC • JPA/Hibernate • MySQL • H2 Database • JavaScript • HTML • CSS
->
-> *Code is private due to university honor code policies.*
-
-### 📁 Full Projects List:
-<details>
-  <summary>Click here to view the complete list or check from the repositories tab!</summary>
-
-  | Project | Description |
-  |:--------|:------------|
-  | 🚀 [portfolio](https://github.com/gargikalla/portfolio) | Personal website |
-  | StudySync | Personal coursework management platform to stay organized and productive |
-  | F1-Filter | Chrome extension to scan for job eligibility specifically for international students |
-  | Backlogr | Academic project management system for professors and students in groups assignments |
-  | Immigration Case System | Workflow centralizing system for immigration officers reviewing applications/ cases |
-  | Movie Review Sentiment Analysis | k-Nearest Neighbor (k-NN) text classification model to predict movie reviews sentiment |
-  | Handwritten Digit Clustering | k-Means clustering model to group handwritten digits into distinct clusters based on their features |
-  | Customer-Order Management | Database focus SQL, Oracle, JDBC to MongoDB (NoSQL) migration to manage customer orders |
-  | Checkers Game | Classic 2-player checkers boardgame  |
-  | Tetrys Game | Tetrys game simple clone (Java + Swing)  |
-
-
-
-</details>
 
 
 ---
